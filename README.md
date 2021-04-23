@@ -14,7 +14,7 @@
 [<img align="left" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](https://yaro-soroko.itch.io)
 [<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yarossoroko@gmail.com)
 
-
+<br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ysoroko&count_private=true&theme=calm&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysoroko&layout=compact&count_private=true&theme=calm&show_icons=true" />
