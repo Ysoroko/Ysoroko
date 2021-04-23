@@ -10,10 +10,11 @@
 ❤️ I love hackatons, game jams and other programming challenges!
 <br/>
 <br/>
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codingame.svg" />](https://www.codingame.com/profile/b8e4fffee4dc8f125e3e04f828f985049447804)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/itch-dot-io.svg" />](https://yaro-soroko.itch.io)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaroslav-soroko-042416153/)
+[<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](https://yaro-soroko.itch.io)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>]("mailto:yarossoroko@gmail.com.com)
+[<img width=107 height=28 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codingame.svg" />](https://www.codingame.com/profile/b8e4fffee4dc8f125e3e04f828f985049447804)
 
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ysoroko&count_private=true&theme=calm&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysoroko&layout=compact&count_private=true&theme=calm&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysoroko&layout=compact&count_private=true&theme=calm&show_icons=true" />
