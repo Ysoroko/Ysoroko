@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Yaro, a programmer from Brussels 🧇
+### I'm Yaro, a programmer from Brussels
 <br/>
 
 💻 I am currently working on recreating [a bash terminal in C language](https://github.com/Ysoroko/Minishell)
