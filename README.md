@@ -5,7 +5,7 @@
 
 💻 I am currently working on recreating [a bash terminal in C language](https://github.com/Ysoroko/Minishell)
 
-📚 I am currently learning C, C++, Docker and Kubernetes at [s19 coding school](http://www.s19.be)
+📚 I am currently learning software engineering at [s19 coding school](http://www.s19.be)
 
 ❤️ I love hackatons, game jams and other programming challenges!
 <br/>
