@@ -3,7 +3,7 @@
 ### I'm Yaro, a programmer from Brussels
 <br/>
 
-💻 I am currently working on recreating [a bash terminal in C language](https://github.com/Ysoroko/Minishell)
+💻 I am currently working on [a program which solves polynomial equations](https://github.com/Ysoroko/computorv1)
 
 📚 I am currently learning software engineering at [s19 coding school](http://www.s19.be)
 
