@@ -3,7 +3,7 @@
 ### I'm Yaro, a programmer from Brussels
 <br/>
 
-💻 I am currently working on [a cybersecurity ethical hacking project](https://github.com/Ysoroko/Darkly)
+💻 I am currently competing in challenges on [Hackerrank](https://www.hackerrank.com/yarossoroko)
 
 📚 I am currently learning software engineering at [s19 coding school](http://www.s19.be)
 
