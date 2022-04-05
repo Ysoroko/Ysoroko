@@ -3,9 +3,9 @@
 ### I'm Yaro, a programmer from Brussels
 <br/>
 
-💻 I am working on algorithms, problem solving and competing in challenges on [Hackerrank](https://www.hackerrank.com/yarossoroko)
+💻 I am working as a software developer intern at Odoo
 
-📚 I am currently learning software engineering at [s19 coding school](http://www.s19.be)
+📚 Proud memeber of [s19 coding school](http://www.s19.be) (42 network)
 
 ❤️ I love hackatons, game jams and other programming challenges!
 <br/>
