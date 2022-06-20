@@ -5,7 +5,7 @@
 
 💻 I am working as a software developer intern at Odoo
 
-📚 Proud memeber of [s19 coding school](http://www.s19.be) (42 network)
+📚 Proud member of [s19 coding school](http://www.s19.be) (42 network)
 
 ❤️ I love hackatons, game jams and other programming challenges!
 <br/>
