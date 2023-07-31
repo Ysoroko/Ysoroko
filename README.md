@@ -5,7 +5,7 @@
 
 💻 IoT software developer at Odoo
 
-📚 Proud member of [s19 coding school](http://www.s19.be) (42 network)
+📚 Former student of [s19 coding school](http://www.s19.be) (42 network)
 
 ❤️ I love hackatons, game jams and other programming challenges!
 <br/>
