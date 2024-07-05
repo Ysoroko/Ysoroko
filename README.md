@@ -3,7 +3,7 @@
 ### I'm Yaro, a programmer from Brussels
 <br/>
 
-💻 IoT software developer at Odoo
+💻 IoT Team Leader / Software Developer at Odoo
 
 📚 Former student of [s19 coding school](http://www.s19.be) (42 network)
 
